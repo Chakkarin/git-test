@@ -8,3 +8,5 @@ this edit in master
 
 
 master
+
+git log --oneline --decorate --graph --all
