@@ -4,3 +4,10 @@ this edit in dev2
 
 
 dev 2
+
+
+
+
+master
+
+git log --oneline --decorate --graph --all
