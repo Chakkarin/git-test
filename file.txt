@@ -1,5 +1,5 @@
 อะไรก็ได้ dev2
-
+add text in master
 this edit in dev2
 
 
